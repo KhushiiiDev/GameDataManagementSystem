@@ -1,0 +1,15 @@
+/workspaces/GameDataManagementSystem/bin/Debug/net8.0/GameDataManagementSystem
+/workspaces/GameDataManagementSystem/bin/Debug/net8.0/GameDataManagementSystem.deps.json
+/workspaces/GameDataManagementSystem/bin/Debug/net8.0/GameDataManagementSystem.runtimeconfig.json
+/workspaces/GameDataManagementSystem/bin/Debug/net8.0/GameDataManagementSystem.dll
+/workspaces/GameDataManagementSystem/bin/Debug/net8.0/GameDataManagementSystem.pdb
+/workspaces/GameDataManagementSystem/obj/Debug/net8.0/GameDataManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/GameDataManagementSystem/obj/Debug/net8.0/GameDataManagementSystem.AssemblyInfoInputs.cache
+/workspaces/GameDataManagementSystem/obj/Debug/net8.0/GameDataManagementSystem.AssemblyInfo.cs
+/workspaces/GameDataManagementSystem/obj/Debug/net8.0/GameDataManagementSystem.csproj.CoreCompileInputs.cache
+/workspaces/GameDataManagementSystem/obj/Debug/net8.0/GameDataManagementSystem.sourcelink.json
+/workspaces/GameDataManagementSystem/obj/Debug/net8.0/GameDataManagementSystem.dll
+/workspaces/GameDataManagementSystem/obj/Debug/net8.0/refint/GameDataManagementSystem.dll
+/workspaces/GameDataManagementSystem/obj/Debug/net8.0/GameDataManagementSystem.pdb
+/workspaces/GameDataManagementSystem/obj/Debug/net8.0/GameDataManagementSystem.genruntimeconfig.cache
+/workspaces/GameDataManagementSystem/obj/Debug/net8.0/ref/GameDataManagementSystem.dll
